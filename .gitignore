@@ -52,8 +52,6 @@ vc17/
 .builds
 *.pidb
 *.scc
-*.dll
-*.exe
 *.exp
 *.lib
 
