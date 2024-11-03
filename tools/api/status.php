@@ -136,9 +136,7 @@ elseif ($requestType === 'showoff') {
     echo json_encode($response);
 
     //  EnterGame.postShowCreatureBoost()
-} elseif ($requestType === 'Creatureboost') {
-
-
+} elseif ($requestType === 'boostedcreature') {
     $response = array(
         "creature" => array(
             "type" => 222
